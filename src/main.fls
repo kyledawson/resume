@@ -1,8 +1,8 @@
-PWD /home/kdawson/github/resume/src
+PWD /home/kdawson/Git/resume/src
 INPUT /home/kdawson/.TinyTeX/texmf.cnf
 INPUT /home/kdawson/.TinyTeX/texmf-dist/web2c/texmf.cnf
 INPUT /home/kdawson/.TinyTeX/texmf-var/web2c/xetex/xelatex.fmt
-INPUT /home/kdawson/github/resume/src/main.tex
+INPUT main.tex
 OUTPUT main.log
 INPUT /home/kdawson/.TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
 INPUT ./altacv.cls
