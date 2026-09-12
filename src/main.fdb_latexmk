@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1789227302.74893 "main.xdv" "main.pdf" "main" 1789227302.84048 0
-  "main.xdv" 1789227302.60673 108772 91793bfd28410766e2af1077e623340b "xelatex"
+["xdvipdfmx"] 1789227856.40654 "main.xdv" "main.pdf" "main" 1789227856.47931 0
+  "main.xdv" 1789227856.27897 109556 4fee07519e08c35d6555708537ee21ad "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1789227299.00257 "main.tex" "main.xdv" "main" 1789227302.83701 0
+["xelatex"] 1789227852.73957 "main.tex" "main.xdv" "main" 1789227856.47514 0
   "/home/kdawson/.TinyTeX/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/home/kdawson/.TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/home/kdawson/.TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
@@ -172,10 +172,10 @@
   "/home/kdawson/.TinyTeX/texmf-var/web2c/xetex/xelatex.fmt" 1781752468 4437641 e95b65af06c7a60ed61acf8d18aba069 ""
   "/home/kdawson/.TinyTeX/texmf.cnf" 1781752380.58924 637 edd806fb06a89761a6034e1968af9017 ""
   "altacv.cls" 1781750824.77697 18436 64206fa215513369e35525467b511867 ""
-  "main.aux" 1789227302.60673 128 8ec89a09013e497d5b92563b73b0583f "xelatex"
-  "main.out" 1789227302.00673 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "main.tex" 1789227292.41472 6804 0daf5f65f5e743692f56667071c4065b ""
-  "page1sidebar.tex" 1789226859.95085 2853 c6bbf81273d74c007cfd19a3509d4569 ""
+  "main.aux" 1789227856.27897 128 8ec89a09013e497d5b92563b73b0583f "xelatex"
+  "main.out" 1789227855.69897 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "main.tex" 1789227832.43883 6859 97e05148796e632dc4e365192c2768d3 ""
+  "page1sidebar.tex" 1789227839.34283 2878 fd41c75e411c87b1c89d6844dd2edf61 ""
   (generated)
   "main.aux"
   "main.log"
