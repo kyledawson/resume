@@ -99,7 +99,7 @@
 \begin{document}
 
 \name{Kyle Dawson, PhD}
-\tagline{Lead Data Scientist | Computer Vision, Geospatial Machine Learning \& Generative AI}
+\tagline{PhD Scientist \& Cloud Solution Builder | Satellite Remote Sensing, Aerospace \& Machine Learning}
 \personalinfo{%
   \email{hello@kyledawson.me}
   \phone{+1 (618)535-9822}
@@ -121,38 +121,44 @@
 
 \cvevent{Lead Data Scientist — Energy}{Centerpoint Energy}{Apr 2026 -- Present}{Houston, TX}
 \begin{itemize}
-  \item lead a new geospatial intelligence (GEOINT) team, setting technical direction, modeling standards, and evaluation practices for machine-learning and computer-vision initiatives
-  \item built a GPU-accelerated 3D computer-vision pipeline (PyTorch, differentiable Chamfer-distance registration) that maps transmission infrastructure by aligning engineering CAD models to LiDAR point clouds
-  \item productionized a risk-based vegetation management model (LightGBM outage-risk scoring, LiDAR-derived features, budget-constrained optimization on GCP BigQuery) to maximize reliability (SAIFI) per dollar of tree-trimming spend
-  \item prototyped a deployed multi-LLM application (Gemini on Vertex AI, Cohere North) on Cloud Run with a retrieval benchmark scoring citation accuracy against a BigQuery ground-truth set to evaluate foundation models for document Q\&A and image analysis
+  \item lead a new geospatial intelligence (GEOINT) team, setting technical direction and architecture standards for satellite-, LiDAR-, and imagery-driven systems
+  \item architected and deployed cloud-native, containerized services (Cloud Run, Docker, CI/CD, BigQuery) that ingest and process large-scale geospatial and remote-sensing data through scalable, reliable pipelines
+  \item built a GPU-accelerated 3D computer-vision pipeline that maps infrastructure by aligning engineering CAD models to LiDAR point clouds
+  \item prototyped and deployed a multi-model generative-AI application integrating managed foundation-model services (Vertex AI, Cohere) with a retrieval benchmark for document Q\&A and image analysis
 \end{itemize}
 
 \divider
 
 \cvevent{Senior Data Scientist — Climate Tech}{SeekOps Inc.}{Mar 2022 -- Apr 2026}{Austin, TX}
 \begin{itemize}
-\item designed, deployed, and maintained customer-facing analytics platforms (Plotly Dash on Azure and Android) delivering real-time greenhouse gas quantification, QA/QC, and operational decision support securing contracts between \$50-150k.
-\item built and productionized machine learning models to forecast survey quality, detect anomalies, and constrain uncertainty in methane and CO$_2$ emission estimates
-\item implemented Bayesian uncertainty propagation and physics-based boundary-layer models to generate decision-grade emissions metrics used in regulatory and enterprise reporting
-% \item authored technical documentation, uncertainty assessments, and customer-facing deliverables supporting multi-year enterprise contracts across 10+ countries
-% \item presented field-deployed ML systems and modeling results to executive leadership, customers, and international conference audiences
+\item designed, deployed, and delivered customer-facing cloud analytics platforms (Plotly Dash on Azure) that turned complex satellite- and drone-based sensing capabilities into productized solutions, directly securing contracts of \$50--150k
+\item served as customer-facing technical lead across 10+ countries, presenting solutions, architecture, and technical strategy to executives, enterprise customers, and international conference audiences
+\item executed proofs of concept and authored technical documentation and uncertainty assessments supporting multi-year enterprise contracts
 \end{itemize}
 
 \divider
 
 \cvevent{Data Scientist — Ag Tech}{Bayer CropScience}{Feb 2020 -- Mar 2022}{St. Louis, MO}
 \begin{itemize}
-\item applied machine learning and geospatial analytics to UAV-derived imagery for large-scale digital phenotyping and crop performance assessment
-\item trained and evaluated deep learning object detection models (Detectron2) for tree species classification from high-resolution aerial imagery
-\item built end-to-end analytics workflows combining relational databases, geospatial data, and AWS S3 into machine-learning-ready datasets, with interactive Plotly Dash apps delivering decision support to stakeholders
+\item built end-to-end cloud data workflows on AWS (S3) combining relational databases, geospatial data, and aerial imagery into analytics-ready datasets
+\item applied machine learning and computer vision (Detectron2) to UAV- and aircraft-derived imagery for large-scale digital phenotyping
+\item delivered interactive decision-support applications to internal stakeholders and business teams
 \end{itemize}
 
 \divider
 
-\cvevent{Postdoctoral Fellow}{NASA Langley Research Center}{Oct 2017 -- Feb 2020}{Hampton, VA}
+\cvevent{Postdoctoral Fellow — Aerospace \& Remote Sensing}{NASA Langley Research Center}{Oct 2017 -- Feb 2020}{Hampton, VA}
 \begin{itemize}
-\item developed uncertainty-aware aerosol retrieval models from HSRL observations and delivered peer-reviewed results for climate applications
+\item developed retrieval algorithms for satellite and airborne remote-sensing instruments (High Spectral Resolution Lidar) supporting NASA Earth-observation and atmospheric science missions
+\item delivered peer-reviewed results and instrument data tooling for the aerospace remote-sensing research community
 \end{itemize}
+
+%======================
+% SELECTED PROJECT
+%======================
+
+\cvsectionwithicon{\faIcon{satellite}}{Selected Project}
+\cvevent{NASA HSRL Data Toolkit (hsrltool)}{Open-source scientific software}{}{}{A graphical toolkit for reading, inspecting, and visualizing NASA High Spectral Resolution Lidar (HSRL) instrument data (HDF5), used by the atmospheric remote-sensing community.}~{\href{https://github.com/kyledawson/hsrltool}{\faIcon{external-link-alt}}}
 
 %======================
 % EDUCATION
