@@ -365,11 +365,11 @@
     anchor=base,
     draw=body!30,
     rounded corners,
-    inner xsep=0.6ex,
-    inner ysep=0.35ex,
-    text height=1.1ex,
-    text depth=.15ex,
-    font=\footnotesize
+    inner xsep=0.8ex,
+    inner ysep=0.5ex,
+    text height=1.4ex,
+    text depth=.25ex,
+    font=\small
   ]{#1};
 }
 
