@@ -336,6 +336,11 @@ INPUT ./page1sidebar.tex
 INPUT ./page1sidebar.tex
 INPUT page1sidebar.tex
 OUTPUT main.xdv
+INPUT ./page2sidebar.tex
+INPUT ./page2sidebar.tex
+INPUT ./page2sidebar.tex
+INPUT ./page2sidebar.tex
+INPUT page2sidebar.tex
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
